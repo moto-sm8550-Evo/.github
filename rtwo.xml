@@ -19,4 +19,7 @@
 
     <!-- Hardware -->
     <project name="LineageOS/android_hardware_motorola" path="hardware/motorola" remote="github" revision="lineage-21"/>
+
+    <!-- Packages -->
+    <project name="moto-sm8550-Evo/packages_apps_Updater" path="packages/apps/UpdaterEVOService" remote="github" revision="udc"/>
 </manifest>
